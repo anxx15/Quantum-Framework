@@ -16,7 +16,7 @@
 		<cukes.version>1.2.5</cukes.version>
 		<qaf.version>3.1</qaf.version>
 		<qafsupport.version>3.1</qafsupport.version>
-		<quantum.version>1.19</quantum.version>
+		<quantum.version>1.23</quantum.version>
 		<org.json.version>20160810</org.json.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
